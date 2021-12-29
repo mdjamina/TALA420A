@@ -8,6 +8,15 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
+Aegisub Video Aspect Ratio: c1.777778
+
+[Aegisub Project Garbage]
+Audio File: FRANCE24_AR_interview.mp4
+Video File: FRANCE24_AR_interview.mp4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 35
+Video Position: 3762
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -16,13 +25,13 @@ Style: Regle1,Arial Unicode MS,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.80,Regle1,,0,0,0,,-Yasmina Khadra,\Nbienvenu.
+Dialogue: 0,0:00:00.00,0:00:02.80,Regle1,,0,0,0,,-Yasmina Khadra,\Nbienvenue.
 Dialogue: 0,0:00:02.80,0:00:03.70,Regle1,,0,0,0,,-Bonjour.
-Dialogue: 0,0:00:05.29,0:00:07.76,Regle1,,0,0,0,,-Ou {\i1}Dieu n'habite pas la Havane{\i0}.
-Dialogue: 0,0:00:07.76,0:00:10.30,Regle1,,0,0,0,,-Non! en arabe, il faut trouver un autre titre.
-Dialogue: 0,0:00:10.30,0:00:13.40,Regle1,,0,0,0,,-Un autre titre. On en parlera plus tard. Mais...
-Dialogue: 0,0:00:13.40,0:00:16.70,Regle1,,0,0,0,,-Parce que, Il y a encore des gens qui ont l’esprit fermé.
-Dialogue: 0,0:00:16.70,0:00:23.40,Regle1,,0,0,0,,-Un roman publié par la maison d’édition Julliard\Nc’est un vrai succès! Sans aucun doute.
+Dialogue: 0,0:00:05.29,0:00:07.76,Regle1,,0,0,0,,
+Dialogue: 0,0:00:07.76,0:00:10.00,Regle1,,0,0,0,,-Non! en arabe, il faut trouver un autre titre.
+Dialogue: 0,0:00:10.10,0:00:13.30,Regle1,,0,0,0,,-Un autre titre. On en parlera plus tard. Mais...
+Dialogue: 0,0:00:13.35,0:00:16.90,Regle1,,0,0,0,,-Il y a encore des gens qui ont l’esprit fermé.
+Dialogue: 0,0:00:18.70,0:00:23.40,Regle1,,0,0,0,,-Un roman publié par la maison d’édition Julliard\Nc’est un vrai succès ! Sans aucun doute.
 Dialogue: 0,0:00:23.40,0:00:25.80,Regle1,,0,0,0,,-Il a également été publié hier en Algérie.
 Dialogue: 0,0:00:25.80,0:00:26.75,Regle1,,0,0,0,,-En français?
 Dialogue: 0,0:00:26.75,0:00:27.64,Regle1,,0,0,0,,-Oui en français.
@@ -44,14 +53,14 @@ Dialogue: 0,0:01:26.80,0:01:29.10,Regle1,,0,0,0,,Mais dès votre arrivée à la 
 Dialogue: 0,0:01:29.10,0:01:31.22,Regle1,,0,0,0,,Vous étiez inspirés.\NJe comprends.
 Dialogue: 0,0:01:31.22,0:01:35.60,Regle1,,0,0,0,,C'est une ville très inspirante\Npour écrire un roman.
 Dialogue: 0,0:01:35.60,0:01:41.30,Regle1,,0,0,0,,-Une seule visite a-t-elle suffi\Nà tisser les fils de ce roman?
-Dialogue: 0,0:01:41.30,0:01:42.50,Regle1,,0,0,0,,-Bien sûr! 
+Dialogue: 0,0:01:41.30,0:01:42.50,Regle1,,0,0,0,,-Bien sûr!
 Dialogue: 0,0:01:42.50,0:01:50.80,Regle1,,0,0,0,,C'était suffisant,\Nd’ailleurs moi je m’intéresse à tout.
 Dialogue: 0,0:01:50.80,0:01:52.20,Regle1,,0,0,0,,-Tous les détails?
 Dialogue: 0,0:01:52.20,0:01:53.90,Regle1,,0,0,0,,Oui, tous les détails.
 Dialogue: 0,0:01:53.90,0:01:58.70,Regle1,,0,0,0,,Et il n'y avait rien d'extraordinaire.
 Dialogue: 0,0:01:58.70,0:02:01.68,Regle1,,0,0,0,,De sorte que le scénario que j'ai écrit sur Cuba.
 Dialogue: 0,0:02:01.68,0:02:05.40,Regle1,,0,0,0,,C'était le premier texte que j'ai consacré\Nà ce pays.
-Dialogue: 0,0:02:05.40,0:02:11.75,Regle1,,0,0,0,,Sans connaître.. Comment dit-on?\Nles peuples de ce..
+Dialogue: 0,0:02:05.40,0:02:11.75,Regle1,,0,0,0,,Sans connaître... Comment dit-on?\Nles peuples de ce...
 Dialogue: 0,0:02:11.75,0:02:12.75,Regle1,,0,0,0,,-Sans le visiter?
 Dialogue: 0,0:02:12.75,0:02:16.28,Regle1,,0,0,0,,-Sans lui rendre visite.\NJ'ai écrit ce scénario pour Forest Whitaker.
 Dialogue: 0,0:02:16.28,0:02:25.05,Regle1,,0,0,0,,L'histoire d'un Cubain impliqué,\Ndans des affaires quotidiennes malveillantes.
@@ -72,7 +81,7 @@ Dialogue: 0,0:03:17.49,0:03:19.49,Regle1,,0,0,0,,-Moi, j'ai écrit avant ces év
 Dialogue: 0,0:03:19.49,0:03:21.90,Regle1,,0,0,0,,-Un livre que j'ai écrit en 2014.
 Dialogue: 0,0:03:21.90,0:03:24.65,Regle1,,0,0,0,,-Avant la visite du Pape et celle d'Obama.
 Dialogue: 0,0:03:24.65,0:03:27.93,Regle1,,0,0,0,,-Qu'est-ce qui a changé\Npar rapport à votre image sur Cuba?
-Dialogue: 0,0:03:27.93,0:03:30.00,Regle1,,0,0,0,,-Avant et après votre visite? 
+Dialogue: 0,0:03:27.93,0:03:30.00,Regle1,,0,0,0,,-Avant et après votre visite?
 Dialogue: 0,0:03:30.00,0:03:32.45,Regle1,,0,0,0,,C-à-d, aviez-vous des stéréotypes?
 Dialogue: 0,0:03:32.45,0:03:38.70,Regle1,,0,0,0,,-Non, il n'y avait pas de ..Je veux dire\Nmon scénario a suivi son chemin.
 Dialogue: 0,0:03:38.70,0:03:44.40,Regle1,,0,0,0,,-Je pense que cela est dû au fait\Nque je connais l'élément humain.
