@@ -16,9 +16,9 @@ Audio File: FRANCE24_AR_interview.mp4
 Video File: FRANCE24_AR_interview.mp4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 22
-Active Line: 39
-Video Position: 4667
+Scroll Position: 61
+Active Line: 76
+Video Position: 8811
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,7 +63,46 @@ Dialogue: 1,0:02:07.50,0:02:11.85,RG01,,0,0,0,,Comment dirais-je?\NLe peuples...
 Dialogue: 0,0:02:11.85,0:02:14.00,RG01,,0,0,0,,-Sans le visiter?\N-Sans lui rendre visite.
 Dialogue: 0,0:02:14.00,0:02:16.43,RG01,,0,0,0,,J'ai écrit ce scénario pour\NForest Whitaker.
 Dialogue: 0,0:02:16.43,0:02:20.43,RG01,,0,0,0,,C'est l'histoire d'un Cubain
-Dialogue: 0,0:02:20.43,0:02:25.43,RG01,,0,0,0,, Impliqué dans des affaires\Nquotidiennes malveillantes.
+Dialogue: 0,0:02:20.43,0:02:25.43,RG01,,0,0,0,,Impliqué dans des affaires\Nquotidiennes malveillantes.
 Dialogue: 0,0:02:25.43,0:02:30.53,RG01,,0,0,0,,En me promenant dans la Havane.
 Dialogue: 0,0:02:30.53,0:02:35.55,RG01,,0,0,0,,J'ai trouvé un peuple,\Nj'ai trouvé une source de créativité.
-Dialogue: 0,0:02:35.55,0:02:37.55,RG01,,0,0,0,,
+Dialogue: 0,0:02:35.55,0:02:38.55,RG01,,0,0,0,,J'ai trouvé une musique\Net des rêves
+Dialogue: 0,0:02:38.55,0:02:42.55,RG01,,0,0,0,,Malgré les pressions\Nidéologiques et politiques.
+Dialogue: 0,0:02:42.55,0:02:44.55,RG01,,0,0,0,,Donc j'ai dit pourquoi pas.
+Dialogue: 0,0:02:45.70,0:02:48.85,RG01,,0,0,0,,Comment peut-on écrire\Nsur un peuple
+Dialogue: 0,0:02:48.85,0:02:51.85,RG01,,0,0,0,,Sur lequel on ne connait pas\Ngrand-chose.
+Dialogue: 0,0:02:51.85,0:02:54.55,RG01,,0,0,0,,Cuba depuis de longues années
+Dialogue: 0,0:02:54.55,0:02:56.40,RG01,,0,0,0,,Vit dans l'isolement.
+Dialogue: 0,0:02:56.55,0:03:00.55,RG01,,0,0,0,,Ce qu'on entend à son sujet\Net sur ses habitants est trés peu.
+Dialogue: 0,0:03:00.55,0:03:02.50,RG01,,0,0,0,,Peut-être récemment
+Dialogue: 0,0:03:02.55,0:03:05.65,RG01,,0,0,0,,L'ouverture de l'Occident\Na commencé sur Cuba.
+Dialogue: 0,0:03:05.65,0:03:09.50,RG01,,0,0,0,,Vous étiez, peut-être parmi\Nles premiers écrivains étrangers.
+Dialogue: 0,0:03:09.50,0:03:12.00,RG01,,0,0,0,,Qui ont écrit sur Cuba
+Dialogue: 0,0:03:12.05,0:03:14.85,RG01,,0,0,0,,-Après les récents événements politiques.
+Dialogue: 0,0:03:17.00,0:03:19.80,RG01,,0,0,0,,-Est-ce que...\N-Moi, j'ai écrit avant ces événements.
+Dialogue: 0,0:03:19.80,0:03:21.90,RG01,,0,0,0,,C'est un livre que\Nj'ai écrit en 2014.
+Dialogue: 0,0:03:21.95,0:03:24.60,RG01,,0,0,0,,Avant la visite du pape\Net celle d'Obama.
+Dialogue: 0,0:03:24.60,0:03:27.90,RG01,,0,0,0,,Qu'est-ce qui a changé\Npar rapport à votre image sur Cuba
+Dialogue: 0,0:03:27.90,0:03:29.90,RG01,,0,0,0,,Avant et après votre visite?
+Dialogue: 0,0:03:29.90,0:03:32.20,RG01,,0,0,0,,Aviez-vous des stéréotypes?
+Dialogue: 0,0:03:32.30,0:03:33.50,RG01,,0,0,0,,-Il n'y avait pas de...
+Dialogue: 0,0:03:33.85,0:03:39.45,RG01,,0,0,0,,Mon scénario a tenu son plan.
+Dialogue: 0,0:03:39.45,0:03:44.40,RG01,,0,0,0,,Je pense que cela est dû au fait\Nque je connais l'élément humain.
+Dialogue: 0,0:03:44.40,0:03:51.15,RG01,,0,0,0,,J'ai vécu au Mexique,\Nj'ai vécu en Algérie et en Europe.
+Dialogue: 0,0:03:51.15,0:03:56.70,RG01,,0,0,0,,Cela m'a permis de m'ouvrir\Npour comprendre
+Dialogue: 0,0:03:56.70,0:04:02.25,RG01,,0,0,0,,Et aquirir les factures\Nde l'élements de l'humain.
+Dialogue: 0,0:04:02.25,0:04:04.15,RG01,,0,0,0,,-Vous trouvez
+Dialogue: 0,0:04:04.15,0:04:06.45,RG01,,0,0,0,,Une ressemblance\Nentre Cuba et l'Algérie
+Dialogue: 0,0:04:06.45,0:04:08.75,RG01,,0,0,0,,Particulièrement,\Ndans l'administration.
+Dialogue: 0,0:04:08.75,0:04:10.75,RG01,,0,0,0,,Effectivement, c'est la même chose
+Dialogue: 0,0:04:10.75,0:04:14.00,RG01,,0,0,0,,Parfois je crois être\Nà Oran 
+Dialogue: 0,0:04:15.90,0:04:17.30,RG01,,0,0,0,,Ou à la capital Alger.
+Dialogue: 0,0:04:17.30,0:04:20.55,RG01,,0,0,0,,C'est donc les mêmes visages,\Nles mêmes comportements
+Dialogue: 0,0:04:20.55,0:04:24.30,RG01,,0,0,0,,Les mêmes manœuvres.
+Dialogue: 0,0:04:24.30,0:04:26.75,RG01,,0,0,0,,Et c'est également\Nle même people
+Dialogue: 0,0:04:26.75,0:04:31.40,RG01,,0,0,0,,Un poeple fort\Net il a de l'ambition en lui
+Dialogue: 0,0:04:31.40,0:04:35.40,RG01,,0,0,0,,Bien que leur ambition\Na une barrière
+Dialogue: 0,0:04:35.40,0:04:38.80,RG01,,0,0,0,,Et la barrière est la politique.
+Dialogue: 0,0:04:38.80,0:04:42.85,RG01,,0,0,0,,Mais le peuple\Net les jeunes surtout
+Dialogue: 0,0:04:42.85,0:04:47.70,RG01,,0,0,0,,Croient encore au rêve\Net aux beaux jours.
+Dialogue: 0,0:04:48.00,0:04:52.20,RG01,,0,0,0,,Amina DJARFI MELOUAH
