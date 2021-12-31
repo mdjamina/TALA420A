@@ -11,90 +11,59 @@ PlayResY: 1080
 Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: FRANCE24_AR_interview.mp4
 Video File: FRANCE24_AR_interview.mp4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 35
-Video Position: 3762
+Scroll Position: 22
+Active Line: 39
+Video Position: 4667
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,200,1
-Style: Regle1,Arial Unicode MS,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,2,2,10,10,220,178
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: RG01,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,190,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.80,Regle1,,0,0,0,,-Yasmina Khadra,\Nbienvenue.
-Dialogue: 0,0:00:02.80,0:00:03.70,Regle1,,0,0,0,,-Bonjour.
-Dialogue: 0,0:00:05.29,0:00:07.76,Regle1,,0,0,0,,
-Dialogue: 0,0:00:07.76,0:00:10.00,Regle1,,0,0,0,,-Non! en arabe, il faut trouver un autre titre.
-Dialogue: 0,0:00:10.10,0:00:13.30,Regle1,,0,0,0,,-Un autre titre. On en parlera plus tard. Mais...
-Dialogue: 0,0:00:13.35,0:00:16.90,Regle1,,0,0,0,,-Il y a encore des gens qui ont l’esprit fermé.
-Dialogue: 0,0:00:18.70,0:00:23.40,Regle1,,0,0,0,,-Un roman publié par la maison d’édition Julliard\Nc’est un vrai succès ! Sans aucun doute.
-Dialogue: 0,0:00:23.40,0:00:25.80,Regle1,,0,0,0,,-Il a également été publié hier en Algérie.
-Dialogue: 0,0:00:25.80,0:00:26.75,Regle1,,0,0,0,,-En français?
-Dialogue: 0,0:00:26.75,0:00:27.64,Regle1,,0,0,0,,-Oui en français.
-Dialogue: 0,0:00:27.64,0:00:33.25,Regle1,,0,0,0,,Tout d'abord, qu'est-ce qui vous a fait quitter\Nles deux rives de la Méditerranée?
-Dialogue: 0,0:00:33.25,0:00:39.15,Regle1,,0,0,0,,Et aller à La Havane, Cuba?\NPour être la maison de votre nouveau roman.
-Dialogue: 0,0:00:39.15,0:00:45.98,Regle1,,0,0,0,,Peut-être pour sortir du cauchemar du...\Nde ce qu'on appelle aujourd'hui
-Dialogue: 0,0:00:45.98,0:00:52.00,Regle1,,0,0,0,,Le cauchemar du racisme, le cauchemar\Nde l'angoisse quotidienne.
-Dialogue: 0,0:00:52.00,0:00:53.17,Regle1,,0,0,0,,Et...
-Dialogue: 0,0:00:53.17,0:00:56.65,Regle1,,0,0,0,,Aussi, je me suis dit que\Nje dois aller dans un domaine.
-Dialogue: 0,0:00:56.65,0:01:01.25,Regle1,,0,0,0,,-Où le rêve revient et la créativité revient.
-Dialogue: 0,0:01:01.25,0:01:05.10,Regle1,,0,0,0,,-Et en tant qu'écrivain\Nj'ai beaucoup de chance.
-Dialogue: 0,0:01:05.10,0:01:08.30,Regle1,,0,0,0,,Je veux dire, j'ai des lecteurs\Npartout dans le monde.
-Dialogue: 0,0:01:08.30,0:01:12.44,Regle1,,0,0,0,,Et je n'ai pas de complexe\Nafin de toujours rester impliqué.
-Dialogue: 0,0:01:12.44,0:01:16.08,Regle1,,0,0,0,,Dans les affaires de mon pays\Nou des pays arabes.
-Dialogue: 0,0:01:16.08,0:01:19.20,Regle1,,0,0,0,,-Vous êtes allés à Cuba\Npour la première fois.
-Dialogue: 0,0:01:19.20,0:01:22.15,Regle1,,0,0,0,,Avec le réalisateur Rachid Bouchareb.
-Dialogue: 0,0:01:22.15,0:01:26.80,Regle1,,0,0,0,,Pour prospection, dans le but\Nd'écrire un scénario.
-Dialogue: 0,0:01:26.80,0:01:29.10,Regle1,,0,0,0,,Mais dès votre arrivée à la Havane.
-Dialogue: 0,0:01:29.10,0:01:31.22,Regle1,,0,0,0,,Vous étiez inspirés.\NJe comprends.
-Dialogue: 0,0:01:31.22,0:01:35.60,Regle1,,0,0,0,,C'est une ville très inspirante\Npour écrire un roman.
-Dialogue: 0,0:01:35.60,0:01:41.30,Regle1,,0,0,0,,-Une seule visite a-t-elle suffi\Nà tisser les fils de ce roman?
-Dialogue: 0,0:01:41.30,0:01:42.50,Regle1,,0,0,0,,-Bien sûr!
-Dialogue: 0,0:01:42.50,0:01:50.80,Regle1,,0,0,0,,C'était suffisant,\Nd’ailleurs moi je m’intéresse à tout.
-Dialogue: 0,0:01:50.80,0:01:52.20,Regle1,,0,0,0,,-Tous les détails?
-Dialogue: 0,0:01:52.20,0:01:53.90,Regle1,,0,0,0,,Oui, tous les détails.
-Dialogue: 0,0:01:53.90,0:01:58.70,Regle1,,0,0,0,,Et il n'y avait rien d'extraordinaire.
-Dialogue: 0,0:01:58.70,0:02:01.68,Regle1,,0,0,0,,De sorte que le scénario que j'ai écrit sur Cuba.
-Dialogue: 0,0:02:01.68,0:02:05.40,Regle1,,0,0,0,,C'était le premier texte que j'ai consacré\Nà ce pays.
-Dialogue: 0,0:02:05.40,0:02:11.75,Regle1,,0,0,0,,Sans connaître... Comment dit-on?\Nles peuples de ce...
-Dialogue: 0,0:02:11.75,0:02:12.75,Regle1,,0,0,0,,-Sans le visiter?
-Dialogue: 0,0:02:12.75,0:02:16.28,Regle1,,0,0,0,,-Sans lui rendre visite.\NJ'ai écrit ce scénario pour Forest Whitaker.
-Dialogue: 0,0:02:16.28,0:02:25.05,Regle1,,0,0,0,,L'histoire d'un Cubain impliqué,\Ndans des affaires quotidiennes malveillantes.
-Dialogue: 0,0:02:25.05,0:02:30.80,Regle1,,0,0,0,, -En me promenant dans la Havane.
-Dialogue: 0,0:02:30.80,0:02:36.00,Regle1,,0,0,0,,J'ai trouvé un peuple,\Nj'ai trouvé une source de créativité.
-Dialogue: 0,0:02:36.00,0:02:37.45,Regle1,,0,0,0,,-J'ai trouvé de la musique.
-Dialogue: 0,0:02:37.45,0:02:42.61,Regle1,,0,0,0,,-J'ai trouvé des rêves malgré les pressions\Nidéologiques et politiques.
-Dialogue: 0,0:02:42.61,0:02:44.61,Regle1,,0,0,0,,Donc, j'ai dit pourquoi pas.
-Dialogue: 0,0:02:44.61,0:02:48.90,Regle1,,0,0,0,,-Comment peut-on écrire sur un peuple?
-Dialogue: 0,0:02:48.90,0:02:52.29,Regle1,,0,0,0,,-Sur lequel on ne connait pas grand-chose.
-Dialogue: 0,0:02:52.29,0:02:56.90,Regle1,,0,0,0,,Je veux dire, Cuba depuis\Ndes longues années vit dans l'isolement.
-Dialogue: 0,0:02:56.90,0:03:00.25,Regle1,,0,0,0,,-Ce qu'on entend à son sujet\Net sur ses habitants est trés peu.
-Dialogue: 0,0:03:00.25,0:03:05.90,Regle1,,0,0,0,,Peut-être récemment\Nl'ouverture de l'Occident a commencé sur Cuba.
-Dialogue: 0,0:03:05.90,0:03:08.98,Regle1,,0,0,0,,-Vous étiez, peut-être\Nparmi les premiers écrivains étrangers.
-Dialogue: 0,0:03:08.98,0:03:15.65,Regle1,,0,0,0,,Qui ont écrit sur Cuba,\Naprès les récents événements politiques.
-Dialogue: 0,0:03:15.65,0:03:17.49,Regle1,,0,0,0,,Est-ce que...
-Dialogue: 0,0:03:17.49,0:03:19.49,Regle1,,0,0,0,,-Moi, j'ai écrit avant ces événements.
-Dialogue: 0,0:03:19.49,0:03:21.90,Regle1,,0,0,0,,-Un livre que j'ai écrit en 2014.
-Dialogue: 0,0:03:21.90,0:03:24.65,Regle1,,0,0,0,,-Avant la visite du Pape et celle d'Obama.
-Dialogue: 0,0:03:24.65,0:03:27.93,Regle1,,0,0,0,,-Qu'est-ce qui a changé\Npar rapport à votre image sur Cuba?
-Dialogue: 0,0:03:27.93,0:03:30.00,Regle1,,0,0,0,,-Avant et après votre visite?
-Dialogue: 0,0:03:30.00,0:03:32.45,Regle1,,0,0,0,,C-à-d, aviez-vous des stéréotypes?
-Dialogue: 0,0:03:32.45,0:03:38.70,Regle1,,0,0,0,,-Non, il n'y avait pas de ..Je veux dire\Nmon scénario a suivi son chemin.
-Dialogue: 0,0:03:38.70,0:03:44.40,Regle1,,0,0,0,,-Je pense que cela est dû au fait\Nque je connais l'élément humain.
-Dialogue: 0,0:03:44.40,0:03:50.90,Regle1,,0,0,0,,-J'ai vécu au Mexique,\Nj'ai vécu en Algérie et en Europe.
-Dialogue: 0,0:03:50.90,0:04:01.98,Regle1,,0,0,0,,Cela m'a permis de comprendre\Net d'acquérir les élements de l'humain.
-Dialogue: 0,0:04:01.98,0:04:06.05,Regle1,,0,0,0,,-Vous voyez qu'il y a une similitude\Nentre Cuba et l'Algérie.
-Dialogue: 0,0:04:06.05,0:04:08.70,Regle1,,0,0,0,,-Particulièrement, dans l'administration.
-Dialogue: 0,0:04:08.70,0:04:17.55,Regle1,,0,0,0,,-Effectivement, parfois je crois être à Oran\Nou à Alger.
-Dialogue: 0,0:04:17.55,0:04:20.61,Regle1,,0,0,0,,-C-à-d, les mêmes visages,\Nles mêmes comportements.
-Dialogue: 0,0:04:20.61,0:04:24.70,Regle1,,0,0,0,,Les mêmes manœuvres.
-Dialogue: 0,0:04:24.70,0:04:27.99,Regle1,,0,0,0,,-Et c'est également le même people,\Nun poeple fort.
-Dialogue: 0,0:04:27.99,0:04:35.42,Regle1,,0,0,0,,-A de l'espoir, malgré les barrières\Nà leur ambition.
-Dialogue: 0,0:04:35.42,0:04:39.05,Regle1,,0,0,0,,Et la barrière est politique.
-Dialogue: 0,0:04:39.05,0:04:45.43,Regle1,,0,0,0,,-Mais les jeunes surtout\Ncroient encore au rêve
-Dialogue: 0,0:04:45.43,0:04:47.98,Regle1,,0,0,0,,Et croient toujours aux beaux jours.
-Dialogue: 0,0:04:47.98,0:04:56.00,Regle1,,0,0,0,,Amina DJARFI MELOUAH
+Dialogue: 0,0:00:00.00,0:00:03.90,RG01,,0,0,0,,-Yasmina Khadra, bienvenue.\N-Bienvenue.
+Dialogue: 0,0:00:08.05,0:00:10.05,RG01,,0,0,0,,-Non! en arabe, il faut trouver un titre.
+Dialogue: 0,0:00:10.15,0:00:12.80,RG01,,0,0,0,,-Un autre titre? On en parlera plus tard. Mais...
+Dialogue: 0,0:00:12.85,0:00:15.85,RG01,,0,0,0,,-Il y a encore des gens qui ont l’esprit fermé.
+Dialogue: 0,0:00:18.30,0:00:23.20,RG01,,0,0,0,,Un roman publié par la maison d’édition Julliard\Nc’est un vrai succès ! Sans aucun doute.
+Dialogue: 0,0:00:23.20,0:00:26.00,RG01,,0,0,0,,Il a également été publié hier en Algérie.
+Dialogue: 0,0:00:26.00,0:00:28.00,RG01,,0,0,0,,-En français?\N-Oui en français.
+Dialogue: 0,0:00:28.00,0:00:30.70,RG01,,0,0,0,,Tout d'abord, qu'est-ce qui vous a fait quitter
+Dialogue: 0,0:00:30.70,0:00:36.70,RG01,,0,0,0,,Les deux rives de la Méditerranée\NEt aller à La Havane, Cuba?
+Dialogue: 0,0:00:36.70,0:00:39.70,RG01,,0,0,0,,Pour être la maison\Nde votre nouveau roman.
+Dialogue: 0,0:00:39.70,0:00:41.05,RG01,,0,0,0,,-Peut-être pour sortir.
+Dialogue: 0,0:00:41.05,0:00:45.85,RG01,,0,0,0,,De ce qu'on appelle aujourd'hui\Nle cauchemar.
+Dialogue: 0,0:00:45.85,0:00:52.40,RG01,,0,0,0,,Du racisme et de l'angoisse quotidienne.
+Dialogue: 0,0:00:52.40,0:00:56.40,RG01,,0,0,0,,Aussi, je me suis dit que\Nje dois aller dans un domaine
+Dialogue: 0,0:00:56.40,0:01:03.15,RG01,,0,0,0,,Où le rêve revient et la créativité revient.\NEt en tant qu'écrivain
+Dialogue: 0,0:01:03.16,0:01:08.10,RG01,,0,0,0,,J'ai beaucoup de chance. j'ai des lecteurs\Npartout dans le monde.
+Dialogue: 0,0:01:08.10,0:01:12.10,RG01,,0,0,0,,Et je n'ai pas de complexe\Nafin de toujours rester impliqué.
+Dialogue: 0,0:01:12.10,0:01:16.40,RG01,,0,0,0,,Dans les affaires de mon pays\Nou des pays arabes.
+Dialogue: 0,0:01:16.40,0:01:18.40,RG01,,0,0,0,,-Vous êtes allés\Nla première fois
+Dialogue: 0,0:01:18.40,0:01:22.40,RG01,,0,0,0,,A cuba avec réalisateur\NRachid Bouchareb.
+Dialogue: 0,0:01:22.40,0:01:26.90,RG01,,0,0,0,,Pour faire de la prospection,\Ndans le but d'écrire un scénario.
+Dialogue: 0,0:01:26.90,0:01:29.10,RG01,,0,0,0,,Mais dès votre arrivée à la Havane.
+Dialogue: 0,0:01:29.10,0:01:31.28,RG01,,0,0,0,,Vous étiez inspiré.\NJe comprends.
+Dialogue: 0,0:01:31.28,0:01:35.13,RG01,,0,0,0,,C'est une ville très inspirante\Npour écrire un roman.
+Dialogue: 0,0:01:35.13,0:01:41.26,RG01,,0,0,0,,Une seule visite a-t-elle suffi\Nà tisser les fils de ce roman?
+Dialogue: 0,0:01:41.26,0:01:42.26,RG01,,0,0,0,,-Bien sûr!
+Dialogue: 0,0:01:42.27,0:01:44.46,RG01,,0,0,0,,Bien sûr! C'était suffisant.
+Dialogue: 0,0:01:44.46,0:01:51.15,RG01,,0,0,0,,d’ailleurs moi je m’intéresse à tout.
+Dialogue: 0,0:01:51.15,0:01:53.30,RG01,,0,0,0,,-Tous les détails?\N-Oui, tous les détails.
+Dialogue: 0,0:01:53.30,0:01:59.30,RG01,,0,0,0,,Et il n'y avait rien\Nd'extraordinaire.
+Dialogue: 0,0:01:59.30,0:02:02.85,RG01,,0,0,0,,Le scénario que j'ai écrit sur Cuba,\Nc'était le premier texte
+Dialogue: 0,0:02:02.85,0:02:07.45,RG01,,0,0,0,,Que j'ai consacré à ce pays,\Nsans le connaître
+Dialogue: 1,0:02:07.50,0:02:11.85,RG01,,0,0,0,,Comment dirais-je?\NLe peuples...
+Dialogue: 0,0:02:11.85,0:02:14.00,RG01,,0,0,0,,-Sans le visiter?\N-Sans lui rendre visite.
+Dialogue: 0,0:02:14.00,0:02:16.43,RG01,,0,0,0,,J'ai écrit ce scénario pour\NForest Whitaker.
+Dialogue: 0,0:02:16.43,0:02:20.43,RG01,,0,0,0,,C'est l'histoire d'un Cubain
+Dialogue: 0,0:02:20.43,0:02:25.43,RG01,,0,0,0,, Impliqué dans des affaires\Nquotidiennes malveillantes.
+Dialogue: 0,0:02:25.43,0:02:30.53,RG01,,0,0,0,,En me promenant dans la Havane.
+Dialogue: 0,0:02:30.53,0:02:35.55,RG01,,0,0,0,,J'ai trouvé un peuple,\Nj'ai trouvé une source de créativité.
+Dialogue: 0,0:02:35.55,0:02:37.55,RG01,,0,0,0,,
