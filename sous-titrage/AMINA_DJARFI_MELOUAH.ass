@@ -17,9 +17,8 @@ Audio File: FRANCE24_AR_interview.mp4
 Video File: FRANCE24_AR_interview.mp4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 66
-Active Line: 78
-Video Position: 8640
+Active Line: 16
+Video Position: 2043
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,7 +41,7 @@ Dialogue: 0,0:00:39.70,0:00:41.05,RG01,,0,0,0,,-Peut-être pour sortir.
 Dialogue: 0,0:00:41.05,0:00:45.85,RG01,,0,0,0,,De ce qu'on appelle aujourd'hui\Nle cauchemar.
 Dialogue: 0,0:00:45.85,0:00:52.40,RG01,,0,0,0,,Du racisme et de l'angoisse quotidienne.
 Dialogue: 0,0:00:52.40,0:00:56.40,RG01,,0,0,0,,Aussi, je me suis dit que\Nje dois aller dans un domaine
-Dialogue: 0,0:00:56.40,0:01:03.15,RG01,,0,0,0,,Où le rêve revient et la créativité revient.\NEt en tant qu'écrivain
+Dialogue: 0,0:00:56.40,0:01:03.15,RG01,,0,0,0,,Où le rêve et la créativité reviennent.\NEt en tant qu'écrivain
 Dialogue: 0,0:01:03.16,0:01:08.10,RG01,,0,0,0,,J'ai beaucoup de chance, j'ai des lecteurs\Npartout dans le monde.
 Dialogue: 0,0:01:08.10,0:01:12.10,RG01,,0,0,0,,Et je n'ai pas de complexe\Npour rester toujours impliqué.
 Dialogue: 0,0:01:12.10,0:01:16.40,RG01,,0,0,0,,Dans les affaires de mon pays\Nou des pays arabes.
