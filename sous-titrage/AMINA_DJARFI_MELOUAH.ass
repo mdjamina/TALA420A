@@ -16,10 +16,10 @@ Last Style Storage: Default
 Audio File: FRANCE24_AR_interview.mp4
 Video File: FRANCE24_AR_interview.mp4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 72
-Active Line: 37
-Video Position: 4363
+Video Zoom Percent: 0.250000
+Scroll Position: 66
+Active Line: 78
+Video Position: 8640
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,10 +44,10 @@ Dialogue: 0,0:00:45.85,0:00:52.40,RG01,,0,0,0,,Du racisme et de l'angoisse quoti
 Dialogue: 0,0:00:52.40,0:00:56.40,RG01,,0,0,0,,Aussi, je me suis dit que\Nje dois aller dans un domaine
 Dialogue: 0,0:00:56.40,0:01:03.15,RG01,,0,0,0,,Où le rêve revient et la créativité revient.\NEt en tant qu'écrivain
 Dialogue: 0,0:01:03.16,0:01:08.10,RG01,,0,0,0,,J'ai beaucoup de chance, j'ai des lecteurs\Npartout dans le monde.
-Dialogue: 0,0:01:08.10,0:01:12.10,RG01,,0,0,0,,Et je n'ai pas de complexe\Nafin de toujours rester impliqué.
+Dialogue: 0,0:01:08.10,0:01:12.10,RG01,,0,0,0,,Et je n'ai pas de complexe\Npour rester toujours impliqué.
 Dialogue: 0,0:01:12.10,0:01:16.40,RG01,,0,0,0,,Dans les affaires de mon pays\Nou des pays arabes.
 Dialogue: 0,0:01:16.40,0:01:18.40,RG01,,0,0,0,,-Vous êtes allés\Nla première fois
-Dialogue: 0,0:01:18.40,0:01:22.40,RG01,,0,0,0,,A cuba avec réalisateur\NRachid Bouchareb.
+Dialogue: 0,0:01:18.40,0:01:22.40,RG01,,0,0,0,,À Cuba avec le réalisateur\NRachid Bouchareb.
 Dialogue: 0,0:01:22.40,0:01:26.90,RG01,,0,0,0,,Pour faire de la prospection,\Ndans le but d'écrire un scénario.
 Dialogue: 0,0:01:26.90,0:01:29.10,RG01,,0,0,0,,Mais dès votre arrivée à la Havane.
 Dialogue: 0,0:01:29.10,0:01:31.28,RG01,,0,0,0,,Vous étiez inspiré.\NJe comprends.
@@ -65,16 +65,16 @@ Dialogue: 0,0:02:11.85,0:02:14.00,RG01,,0,0,0,,-Sans le visiter?\N-Sans lui rend
 Dialogue: 0,0:02:14.00,0:02:16.43,RG01,,0,0,0,,J'ai écrit ce scénario pour\NForest Whitaker.
 Dialogue: 0,0:02:16.43,0:02:20.43,RG01,,0,0,0,,C'est l'histoire d'un Cubain
 Dialogue: 0,0:02:20.43,0:02:25.43,RG01,,0,0,0,,Impliqué dans des affaires\Nquotidiennes malveillantes.
-Dialogue: 0,0:02:25.43,0:02:30.53,RG01,,0,0,0,,En me promenant dans la Havane.
+Dialogue: 0,0:02:25.43,0:02:30.53,RG01,,0,0,0,,En se promenant à la Havane.
 Dialogue: 0,0:02:30.53,0:02:35.55,RG01,,0,0,0,,J'ai trouvé un peuple,\Nj'ai trouvé une source de créativité.
 Dialogue: 0,0:02:35.55,0:02:38.55,RG01,,0,0,0,,J'ai trouvé une musique\Net des rêves
 Dialogue: 0,0:02:38.55,0:02:42.55,RG01,,0,0,0,,Malgré les pressions\Nidéologiques et politiques.
-Dialogue: 0,0:02:42.55,0:02:44.55,RG01,,0,0,0,,Donc j'ai dit pourquoi pas.
+Dialogue: 0,0:02:42.55,0:02:44.55,RG01,,0,0,0,,Donc je me suis dit pourquoi pas.
 Dialogue: 0,0:02:45.70,0:02:48.85,RG01,,0,0,0,,Comment peut-on écrire\Nsur un peuple
 Dialogue: 0,0:02:48.85,0:02:51.85,RG01,,0,0,0,,Sur lequel on ne connait pas\Ngrand-chose.
 Dialogue: 0,0:02:51.85,0:02:54.55,RG01,,0,0,0,,Cuba depuis de longues années
 Dialogue: 0,0:02:54.55,0:02:56.40,RG01,,0,0,0,,Vit dans l'isolement.
-Dialogue: 0,0:02:56.55,0:03:00.55,RG01,,0,0,0,,Ce qu'on entend à son sujet\Net sur ses habitants est trés peu.
+Dialogue: 0,0:02:56.55,0:03:00.55,RG01,,0,0,0,,Ce qu'on en entend peu parler.
 Dialogue: 0,0:03:00.55,0:03:02.50,RG01,,0,0,0,,Peut-être récemment
 Dialogue: 0,0:03:02.55,0:03:05.65,RG01,,0,0,0,,L'ouverture de l'Occident\Na commencé sur Cuba.
 Dialogue: 0,0:03:05.65,0:03:09.50,RG01,,0,0,0,,Vous étiez, peut-être parmi\Nles premiers écrivains étrangers.
@@ -88,7 +88,7 @@ Dialogue: 0,0:03:27.90,0:03:29.90,RG01,,0,0,0,,Avant et après votre visite?
 Dialogue: 0,0:03:29.90,0:03:32.20,RG01,,0,0,0,,Aviez-vous des stéréotypes?
 Dialogue: 0,0:03:32.30,0:03:33.50,RG01,,0,0,0,,-Il n'y avait pas de...
 Dialogue: 0,0:03:33.85,0:03:39.45,RG01,,0,0,0,,Mon scénario a tenu son plan.
-Dialogue: 0,0:03:39.45,0:03:44.40,RG01,,0,0,0,,Je pense que cela est dû au fait\Nque je connais l'élément humain.
+Dialogue: 0,0:03:39.45,0:03:44.40,RG01,,0,0,0,,Je pense que cela est dû au fait que \Nje connaisse l'élément humain.
 Dialogue: 0,0:03:44.40,0:03:51.15,RG01,,0,0,0,,J'ai vécu au Mexique,\Nj'ai vécu en Algérie et en Europe.
 Dialogue: 0,0:03:51.15,0:03:56.70,RG01,,0,0,0,,Cela m'a permis de m'ouvrir\Npour comprendre
 Dialogue: 0,0:03:56.70,0:04:02.25,RG01,,0,0,0,,Et aquirir les facteurs\Nde l'élements de l'humain.
@@ -102,7 +102,7 @@ Dialogue: 0,0:04:17.30,0:04:20.55,RG01,,0,0,0,,C'est donc les mêmes visages,\Nl
 Dialogue: 0,0:04:20.55,0:04:24.30,RG01,,0,0,0,,Les mêmes manœuvres.
 Dialogue: 0,0:04:24.30,0:04:26.75,RG01,,0,0,0,,Et c'est également\Nle même peuple
 Dialogue: 0,0:04:26.75,0:04:31.40,RG01,,0,0,0,,Un peuple fort\Net il a de l'ambition en lui
-Dialogue: 0,0:04:31.40,0:04:35.40,RG01,,0,0,0,,Bien que leur ambition\Na une barrière
+Dialogue: 0,0:04:31.40,0:04:35.40,RG01,,0,0,0,,Bien que leur ambition\Nait une barrière
 Dialogue: 0,0:04:35.40,0:04:38.80,RG01,,0,0,0,,Et la barrière est la politique.
 Dialogue: 0,0:04:38.80,0:04:42.85,RG01,,0,0,0,,Mais le peuple\Net les jeunes surtout
 Dialogue: 0,0:04:42.85,0:04:47.70,RG01,,0,0,0,,Croient encore au rêve\Net aux beaux jours.
