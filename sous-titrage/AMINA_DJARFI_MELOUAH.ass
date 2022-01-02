@@ -16,14 +16,15 @@ Last Style Storage: Default
 Audio File: FRANCE24_AR_interview.mp4
 Video File: FRANCE24_AR_interview.mp4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 3
-Video Position: 386
+Video Zoom Percent: 0.500000
+Scroll Position: 76
+Active Line: 77
+Video Position: 8811
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: RG01,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,190,1
+Style: RG01,Arial,55,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,190,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -90,7 +91,7 @@ Dialogue: 0,0:03:33.85,0:03:39.45,RG01,,0,0,0,,Mon scénario a tenu son plan.
 Dialogue: 0,0:03:39.45,0:03:44.40,RG01,,0,0,0,,Je pense que cela est dû au fait que \Nje connaisse l'élément humain.
 Dialogue: 0,0:03:44.40,0:03:51.15,RG01,,0,0,0,,J'ai vécu au Mexique,\Nj'ai vécu en Algérie et en Europe.
 Dialogue: 0,0:03:51.15,0:03:56.70,RG01,,0,0,0,,Cela m'a permis de m'ouvrir\Npour comprendre
-Dialogue: 0,0:03:56.70,0:04:02.25,RG01,,0,0,0,,Et aquirir les facteurs\Nde l'élements de l'humain.
+Dialogue: 0,0:03:56.70,0:04:02.25,RG01,,0,0,0,,Et acquérir les facteurs\Nde l'élements de l'humain.
 Dialogue: 0,0:04:02.25,0:04:04.15,RG01,,0,0,0,,-Vous trouvez
 Dialogue: 0,0:04:04.15,0:04:06.45,RG01,,0,0,0,,Une ressemblance\Nentre Cuba et l'Algérie
 Dialogue: 0,0:04:06.45,0:04:08.75,RG01,,0,0,0,,Particulièrement,\Ndans l'administration.
@@ -105,4 +106,4 @@ Dialogue: 0,0:04:31.40,0:04:35.40,RG01,,0,0,0,,Bien que leur ambition\Nait une b
 Dialogue: 0,0:04:35.40,0:04:38.80,RG01,,0,0,0,,Et la barrière est la politique.
 Dialogue: 0,0:04:38.80,0:04:42.85,RG01,,0,0,0,,Mais le peuple\Net les jeunes surtout
 Dialogue: 0,0:04:42.85,0:04:47.70,RG01,,0,0,0,,Croient encore au rêve\Net aux beaux jours.
-Dialogue: 0,0:04:48.00,0:04:52.20,RG01,,0,0,0,,Amina DJARFI MELOUAH
+Dialogue: 0,0:04:49.00,0:04:53.20,RG01,,0,0,0,,Amina DJARFI MELOUAH
